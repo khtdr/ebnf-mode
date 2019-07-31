@@ -2,7 +2,7 @@
 
 **install**
 - download it: https://raw.githubusercontent.com/khtdr/ebnf-mode/master/ebnf-mode.el
-- add it to emacs: `(load "~/downloads/ebnf-mode.el")
+- add it to emacs: `(load "~/downloads/ebnf-mode.el")`
 - evaluate the file or restart emacs
 - open `*.ebnf` files
   - examples files (from [wikipedia](https://en.wikipedia.org/wiki/Extended_Backus%E2%80%93Naur_form#Examples)):
