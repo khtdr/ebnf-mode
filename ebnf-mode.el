@@ -9,7 +9,6 @@
     ("\\?.*\\?" . font-lock-doc-face)
     ("[{}()[]\\|\\]" . font-lock-negation-char-face)
     ("[,|]" . font-lock-builtin-face)
-    ;("[=;]" . font-lock-builtin-face)
     ("[^ \t\n;=]" . font-lock-keyword-face))
   '("\\.ebnf\\'")
   '((lambda ()
