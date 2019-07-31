@@ -1,4 +1,4 @@
-;;; ebnf-mode --- Generic mode for *.ebnf files
+;;; ebnf-mode --- Major mode for *.ebnf files
 ;;; Commentary:
 
 ;;; Code:
